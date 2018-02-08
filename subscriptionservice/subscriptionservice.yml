@@ -1,1 +1,2 @@
-example.property: "I AM IN THE DEFAULT"
+spring.jpa.hibernate.ddl-auto: "create-drop"
+spring.jpa.show-sql: "true"
