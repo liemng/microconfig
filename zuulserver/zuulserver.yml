@@ -1,2 +1,4 @@
 apigw.creds: "{cipher}3de05fecde6d73f0006b77da4217d26a6d7b8dc228d131872a060681b0f43708"
 oauth.url: "http://localhost:9999/oauth/check_token?token="
+jwt.signing.key: "{cipher}27375604306697df074c9f883f2fd1aa20ec63518e1f5082be2b57219b2aa6adba4dd94e4bb80d2ab0042953f37f2555844484d1b081fcd087222a715e682f73"
+jwt.header: "x-apigw-jwt"
