@@ -1,0 +1,1 @@
+oauth.url: "http://oauth2server:9999/oauth/check_token?token="
