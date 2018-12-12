@@ -1,1 +1,1 @@
-oauth.url: "http://oauth2server:9999/oauth/check_token?token="
+oauth.url: "http://oauth2-service:9999/oauth/check_token?token="
